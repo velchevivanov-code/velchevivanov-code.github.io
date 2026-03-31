@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fuelgenius.app",
+    "sha256_cert_fingerprints": [
+      "D1:E7:7D:8E:11:60:10:4C:DD:D8:E2:16:F0:87:95:59:11:6E:E4:51:E5:E1:D0:16:90:FB:67:B4:43:47:4D:05",
+      "5D:81:0B:74:09:F1:DF:F3:73:50:6E:B4:22:EC:79:DB:38:6F:DC:79:7F:05:AE:CD:18:0B:A6:FD:6E:24:5E:62"
+    ]
+  }
+}]
